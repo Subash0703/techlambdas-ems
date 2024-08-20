@@ -1,0 +1,34 @@
+.new-btn {
+  color: #ffffff;
+  background-color: #1fcb4f;
+  cursor: pointer;
+}
+.plus-toggle{
+  border-radius: 40%;
+}
+.plus {
+  transform: rotate(0deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.plus-rot {
+  transform: rotate(45deg);
+  transition: transform 0.3s ease-in-out;
+}
+.qualify-title{
+    color: #1fcb4f;
+}
+
+.qualify-add-btn{
+    color: #1fcb4f;
+    cursor: pointer;
+}
+.cancel-btn{
+    border: 1px solid #1fcb4f;
+    color: #1fcb4f;
+}
+
+.submit-btn{
+    background-color: #1fcb4f;
+    color: #ffffff;
+}

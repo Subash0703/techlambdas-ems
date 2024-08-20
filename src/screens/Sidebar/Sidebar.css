@@ -1,0 +1,16 @@
+.sidebar {
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-content {
+  flex-grow: 1;
+  background-color: #1d1d41;
+  color: #ffffff;
+}
+
+.sidebar-text {
+  color: #1fcb4f;
+}

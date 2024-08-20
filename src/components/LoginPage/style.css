@@ -1,0 +1,25 @@
+.homepage {
+  background: url("/src/assets/homepage.png") no-repeat center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-title {
+  color: #1fcb4f;
+}
+.login-btn {
+  background-color: #1fcb4f;
+}
+.form-control {
+  border: 1px solid #000000;
+  border-radius: 8px;
+}
+.form-control-pass {
+  border: 1px solid #000000;
+  border-radius: 8px;
+  border-right: none;
+}
+.input-group-text {
+  border: 1px solid #000000;
+  border-radius: 8px;
+}
