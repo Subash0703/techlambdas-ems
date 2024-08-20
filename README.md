@@ -27,14 +27,14 @@ This is an Employee Management System built with React and Bootstrap, using Vite
 Clone the project
 
 ```bash
-  git clone https://github.com/yourusername/employee-management-system.git
-  cd employee-management-system
+  git clone https://github.com/Subash0703/techlambdas-ems.git
+  cd tech-lambdas
 ```
 
 Go to the project directory
 
 ```bash
-  cd employee-management-system
+  cd tech-lambdas
 ```
 
 Install dependencies
