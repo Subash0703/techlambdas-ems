@@ -52,5 +52,5 @@ Start the server
 
 ## Optimizations
 
-What optimizations did you make in your code? E.g. code splitting, reusable components, performance improvements.
+code splitting, reusable components, performance improvements.
 
